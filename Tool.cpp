@@ -1,6 +1,9 @@
 //
-// Tool.cpp
-// Created by Jacob Grafenstein
+// Project: BrushWorkApp
+// Title: Tool.cpp
+// Author: Jacob Grafenstein
+// Author URI: https://github.com/Jake-Grafenstein
+// Description: The base Tool class from which all Tools will inherit. 
 //
 
 #include <iostream>

@@ -1,8 +1,11 @@
 #ifndef X_PEN_H
 #define X_PEN_H
 //
-// XPen.h
-// Created by Jacob Grafenstein
+// Project: BrushWorkApp
+// Title: XPen.h
+// Author: Jacob Grafenstein
+// Author URI: https://github.com/Jake-Grafenstein
+// Description: The header file for the XPen class.
 //
 
 class Tool;

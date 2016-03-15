@@ -1,6 +1,9 @@
 //
-// XPen.cpp
-// Created by Jacob Grafenstein
+// Project: BrushWorkApp
+// Title: XPen.cpp
+// Author: Jacob Grafenstein
+// Author URI: https://github.com/Jake-Grafenstein
+// Description: The XPen class inherits from Tool class. It defines the mask for the XPen.
 //
 
 #include <iostream>

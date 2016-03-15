@@ -1,7 +1,11 @@
 //
-// Tool.h
-// Created by Jacob Grafenstein
+// Project: BrushWorkApp
+// Title: Tool.h
+// Author: Jacob Grafenstein
+// Author URI: https://github.com/Jake-Grafenstein
+// Description: The Tool header file containing declarations.
 //
+
 #ifndef TOOL_H
 #define TOOL_H
 #include "ColorData.h"

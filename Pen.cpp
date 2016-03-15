@@ -1,6 +1,9 @@
 //
-// Pen.cpp
-// Created by Jacob Grafenstein
+// Project: BrushWorkApp
+// Title: Pen.cpp
+// Author: Jacob Grafenstein
+// Author URI: https://github.com/Jake-Grafenstein
+// Description: This class inherits from the Tool class. It creates a mask to apply to the canvas.
 //
 
 #include <iostream>
