@@ -1,6 +1,7 @@
 //
 //  BrushWorkApp.h
 //  Originally created by the CSci-3081W TAs.
+//  Edited by Jacob Grafenstein, Stevie Frisbie, and Jonathon Meyer
 //
 
 
